@@ -1,5 +1,3 @@
-# Gear Developer Hub
-
-## courses
+## Courses
 
 - [basics](./basics)
